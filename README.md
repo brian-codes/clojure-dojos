@@ -1,14 +1,17 @@
-# Glasgow Clojurians
+# Clojure Dojos
 
-Solutions to the Clojure Dojos
+My solutions to the Dojos from the Glasgow Clojurians Meetup
+
+[Join the meetup](https://www.meetup.com/Glasgow-Software-Development-Meetup/) all levels welcome!
 
 ## Usage
 
-lein run
+See src/demo/core.clj for example usage or
+`lein run`
 
 ## Tests
 
-lein test
+`lein test`
 
 ## License
 
